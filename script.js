@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <li><a href="../index.html">Home</a></li>
                 <li><a href="../about.html">About Us</a></li>
                 <li><a href="../services">Services</a></li>
-                <li><a href="./Our-Services/health-pakages.html">Health Packages</a></li>
+                <li><a href="./health-pakages.html">Health Packages</a></li>
                 <li><a href="../contact">Contact</a></li>
             </ul>
             <div class="fullscreen-nav-contact">
